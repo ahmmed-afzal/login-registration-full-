@@ -1,0 +1,20 @@
+{
+  "name": "ahmme/crud_sumon",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ahmmed Afzal",
+      "email": "ahmmedafzal4@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.0"
+  },
+  "autoload":{
+    "files": [
+        
+        "helpers/functions.php"
+    ]
+  }
+}
